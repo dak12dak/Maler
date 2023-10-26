@@ -1,0 +1,21 @@
+WORKSPACE.VARIABLES = {    'x'    };      % variables
+WORKSPACE.GRIDPARAM = { [-1,1,21] };      % trial computational domain
+
+WORKSPACE.PARAMETERS = {'a','t'};         % parameters
+WORKSPACE.PARSAMPVAL = { 0, 2 };          % sample values of parameters
+ 
+
+c = 2;      % constant
+
+f1 = 'c*x';
+
+f2 = 'a*x^2';
+
+f3 = 'atan(x/sqrt(1+a^2+c^2))';
+
+f4 = 't*f2';
+
+
+
+
+

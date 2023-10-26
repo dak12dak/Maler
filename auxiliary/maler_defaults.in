@@ -1,0 +1,12 @@
+POSITION	[0, 0.047619, 1, 0.872381]
+FONTSIZE	16
+DIGNUMBER	3
+FIGSAVETYPE	{  'fig', 'pdf', 'eps'  }
+USERBUTTS	7
+TOOLTIP01	User Defined Action 1
+TOOLTIP02	User Defined Action 2
+TOOLTIP03	User Defined Action 3
+TOOLTIP04	User Defined Action 4
+TOOLTIP05	User Defined Action 5
+TOOLTIP06	User Defined Action 6
+TOOLTIP07	User Defined Action 7
